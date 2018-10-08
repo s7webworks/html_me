@@ -1,0 +1,55 @@
+#intro { text-align: center;
+
+
+}
+#me { text-align:center;
+    }
+#c64-loop {
+    float:right;
+    height: 600px;
+    width: 40%;
+
+
+}
+#c64-program{ float: left;
+    height: 600px;
+width:40%;}
+
+#c64text {
+    width: 25%;
+    float: up;
+}
+
+#footerText {
+    text-align: center;
+    margin:0 40% 0 0;
+
+}
+.clearfix{
+    clear: both;
+
+}
+.c64 {
+    margin-top: 5 px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: auto;
+
+    
+}
+body {
+    color: #000;
+    background-color: #ffffff;
+    background-image: url('https:/s7webworks.com/images/bg.jpg')
+    margin: 25px auto;
+}
+
+p {
+    text-align: center;
+    font-size: 2em;
+   
+    
+}
+img {
+    margin: 25px auto;
+}
